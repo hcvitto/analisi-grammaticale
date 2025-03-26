@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Butterfly';
+    font-style: normal;
+    font-weight: 400;
+    src: local('fonts/ButterflyKids-Regular.ttf'), url('/fonts/ButterflyKids-Regular.ttf') format('truetype');
+}
